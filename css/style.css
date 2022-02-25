@@ -60,6 +60,9 @@ intro section css
 .content p{
 	color: #727873;
 }
+/***************
+section css
+****************/
 .section{
 	width: 100%;
 	padding-bottom: 80px;
@@ -84,7 +87,9 @@ intro section css
 	color: #192f5d;
 }
 
-
+/***************
+feature section css
+****************/
 .features{
 	width: 100%;
 	padding-bottom: 80px;
@@ -120,6 +125,9 @@ intro section css
 	color: #3d3b3b;
 	font-size: 15px;
 }
+/***************
+footer section css
+****************/
 .footer{
 	width: 100%;
 	background-color: #008AFF;
